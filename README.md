@@ -15,7 +15,7 @@ BAIS Professional Prep Github Assignment.
 
 ## Program & Files
 Hello-World
-    - README.md
+- README.md
 
 ## Verions
     1. First Draft
