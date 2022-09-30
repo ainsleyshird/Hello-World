@@ -8,7 +8,7 @@
     3. [Final](#Final)
 
 ## Project Title 
-*Hello-World*  
+*Hello World*  
 
 ## Description 
 BAIS Professional Prep Github Assignment. 
