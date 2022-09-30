@@ -1,11 +1,11 @@
 ## Table of Contents
-- Project Title
-- Description 
-- Program & Files 
-- Versions
-    1. First Draft
-    2. Updated 
-    3. Final 
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description) 
+- [PROGRAM & FILES](#Program-&-Files) 
+- [Versions](#Versions)
+    1. [First Draft](#First-Draft)
+    2. [Updates](#Updated)
+    3. [Final](#Final)
 
 ## Project Title 
 *Hello-World*  
