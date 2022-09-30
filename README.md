@@ -4,7 +4,7 @@
 - Program & Files 
 - Versions
     1. First Draft
-    2. 2. Updated 
+    2. Updated 
     3. Final 
 
 ## Project Title 
@@ -19,8 +19,8 @@ Hello-World
 
 ## Verions
     1. First Draft
-       Explain logic behind the beginning code. 
+       - Explain logic behind the beginning code. 
     2. Updated
-       Discuss what changes were made. 
+       - Discuss what changes were made. 
     3. Final
-       List any final changes that were made and explain reasoning. 
+       - List any final changes that were made and explain reasoning. 
