@@ -3,8 +3,9 @@
 - Description 
 - Program & Files 
 - Versions
-    1. Updated 
-    2. Final 
+    1. First Draft
+    2. 2. Updated 
+    3. Final 
     
 ## Description 
 BAIS Professional Prep Github Assignment. 
@@ -14,7 +15,9 @@ Hello-World
     - README.md
 
 ## Verions
-    **1. Updated**
+    1. **First Draft**
+        Explain logic behind the beginning code. 
+    2. **Updated**
         Discuss what changes were made. 
-    **2. Final**
+    3. **Final**
         List any final changes that were made and explain reasoning. 
